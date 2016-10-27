@@ -4,6 +4,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 //Kommentar
 
+//ich auch
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
