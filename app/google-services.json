@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "563688485933",
+    "firebase_url": "https://mc-eventplaner.firebaseio.com",
+    "project_id": "mc-eventplaner",
+    "storage_bucket": "mc-eventplaner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563688485933:android:1c6205df4ead09ff",
+        "android_client_info": {
+          "package_name": "mcmrt.event_planer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563688485933-8rt9k1uujk8ivg11j93prv785ft857f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcmrt.event_planer",
+            "certificate_hash": "3F937062ABD5DDB3247ED62F21F11BCBFE3DC542"
+          }
+        },
+        {
+          "client_id": "563688485933-oishvm6akn32v1085dai0rfb07pb3egn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuzn-e6UDOhfMgCS_xpHPl2g0HrcTjtk8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563688485933-oishvm6akn32v1085dai0rfb07pb3egn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
