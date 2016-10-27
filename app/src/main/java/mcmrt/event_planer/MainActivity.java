@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
         mListView = (ListView) findViewById(R.id.listView);
 
-        DatabaseReference databaseRef = FirebaseDatabase.getInstance().getReferenceFromUrl("https://eventplaner-c5680.firebaseio.com/Users");
+        DatabaseReference databaseRef = FirebaseDatabase.getInstance().getReferenceFromUrl("https://mc-eventplaner.firebaseio.com/Users");
 
         FirebaseListAdapter<String>firebaseListAdapter = new FirebaseListAdapter<String>(
                 this,
